@@ -5,4 +5,4 @@
 [![RAM ≤150MB](https://img.shields.io/badge/RAM-%E2%89%A4150MB-2ea44f)](https://github.com/yourname/NEXUS-9)
 [![Agents](https://img.shields.io/badge/Agents-17%20autonomous-blueviolet)](agents/)
 # NEXUS_V9  *_ANDRIOD VERSION_*
-Sovereign offline AI OS + 17 highly aadvanced agents in pure Python. Runs on Android (no root) via Pydroid3/Termux. Async core, plugin system, on-device ML (IsolationForest/RandomForest + pure-Python fallbacks), predictive failure detection, self-healing, &lt;150 MB RAM. Single-file OS + modular agents. Zero cloud.
+Sovereign offline AI OS + 17 highly advanced agents in pure Python. Runs on Android (no root) via Pydroid3/Termux. Async core, plugin system, on-device ML (IsolationForest/RandomForest + pure-Python fallbacks), predictive failure detection, self-healing, &lt;150 MB RAM. Single-file OS + modular agents. Zero cloud.
