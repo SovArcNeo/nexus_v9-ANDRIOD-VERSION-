@@ -21,3 +21,5 @@ Designed from the ground up to run entirely on low-end Android devices (no root 
 - Zero external dependencies in base operation
 - Memory ceiling ≈ 150 MB · CPU-aware scheduling · battery-friendly
 - Full model training and persistence on-device (optional scikit-learn acceleration)
+
+## Commercial licensing / support / custom builds: DM me
