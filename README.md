@@ -21,7 +21,14 @@ The v9 Dashboard (`DashboardController`) renders a high-fidelity text UI compati
 * **Host Threat Level:** ML-driven assessment of local device metrics.
 * **Agent Status:** Tracking of autonomous sub-systems (Alpha, Bravo, Charlie).
 
-( for a view of the mobile system see --> [Interface Preview](https://github.com/SovArcNeo/nexus_v9-ANDRIOD-VERSION-/blob/main/Screenshots%20of%20system) in file tree)
+## 📸 Mission Control Center
+> *When you are on the go it goes with you.*
+
+| **Main Dashboard** | **Live System** |
+|:---:|:---:|
+|![Nexus_v9_load](https://github.com/user-attachments/assets/f4611f70-7e08-465c-b5c6-7650e013cc19)| ![Nexus_v9_1](https://github.com/user-attachments/assets/ac70a791-9aa3-44bc-b516-3bf6132451d3)|
+
+ 
 
 ---
 
