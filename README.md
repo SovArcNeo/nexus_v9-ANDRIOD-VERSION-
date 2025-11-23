@@ -21,7 +21,7 @@ The v9 Dashboard (`DashboardController`) renders a high-fidelity text UI compati
 * **Host Threat Level:** ML-driven assessment of local device metrics.
 * **Agent Status:** Tracking of autonomous sub-systems (Alpha, Bravo, Charlie).
 
-*(See `Screenshot 2025-11-22 10.00.32 PM.png` in file tree for interface preview)*
+*(See ` ` in file tree for interface preview)*
 
 ---
 
