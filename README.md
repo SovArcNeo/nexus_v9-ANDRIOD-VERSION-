@@ -13,7 +13,7 @@ It features a **Pure Python Neural Network** fallback system, ensuring ML capabi
 
 ---
 
-## 📱 Mobile Command Center
+## ⚡ Mobile Command Center
 > *Pocket-sized Sovereign Intelligence. Real-time visualization of the invisible war.*
 
 The v9 Dashboard (`DashboardController`) renders a high-fidelity text UI compatible with mobile terminal emulators, providing real-time telemetry on:
@@ -21,12 +21,13 @@ The v9 Dashboard (`DashboardController`) renders a high-fidelity text UI compati
 * **Host Threat Level:** ML-driven assessment of local device metrics.
 * **Agent Status:** Tracking of autonomous sub-systems (Alpha, Bravo, Charlie).
 
-## 📸 Mission Control Center
+## 📱 Mission Control Center
 > *When you are on the go it goes with you.*
 
 | **Main Dashboard** | **Live System** |
 |:---:|:---:|
 |![Nexus_v9_load](https://github.com/user-attachments/assets/f4611f70-7e08-465c-b5c6-7650e013cc19)| ![Nexus_v9_1](https://github.com/user-attachments/assets/ac70a791-9aa3-44bc-b516-3bf6132451d3)|
+| **Enterprise level security in the plam of your hand.** | **People are mobile your security should be too.** |
 
  
 
